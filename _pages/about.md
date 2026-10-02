@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year Ph.D. candidate at the [HKUST NLP Group](https://hkust-nlp.github.io/), Hong Kong University of Science and Technology (HKUST), where I am supervised by [Professor Junxian He](https://junxianh.github.io/). My research focuses on natural language processing and machine learning.
+I am a first-year Ph.D. candidate at the HKUST NLP Group, Hong Kong University of Science and Technology (HKUST), where I am supervised by Professor Junxian He. Professor Junxian He also previously advised me during my undergraduate studies at Shanghai Jiao Tong University (SJTU). My research focuses on natural language processing and machine learning.
 
 My research interests include:
 - LLM Reasoning and Reinforcement Learning
@@ -38,11 +38,11 @@ My research interests include:
 
 ## Publications
 
-**\* denotes equal contribution. Full publication list is available on my [Google Scholar](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate).**
+**Bold** indicates my publications. A full list is also available on my [Google Scholar](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate).
 
 1. **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond** (2025)
    **Junteng Liu**, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He
-   *Arxiv*. [Code](https://github.com/Vicent0205)
+   *Arxiv*.
 
 2. **On the Perception Bottleneck of VLMs for Chart Understanding** (2025)
    **Junteng Liu**, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He
