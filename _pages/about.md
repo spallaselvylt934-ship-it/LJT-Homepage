@@ -13,7 +13,7 @@ I received my B.Eng. degree from Shanghai Jiao Tong University (SJTU) in June 20
 
 Research Interests
 ======
-My research interests include:
+My research focuses on natural language processing and machine learning. My specific research interests include:
 
 * **LLM Reasoning and Reinforcement Learning**
 * **Hallucination in Vision-Language Models (VLM)**
@@ -33,6 +33,16 @@ Research Experience
   * Advisor: Zifei Shan
 * **Research Intern**, Shanghai AI Lab (June 2023 - December 2023)
   * Advisor: Prof. Yu Cheng
+
+Skills
+======
+* Natural Language Processing
+* Machine Learning
+* Large Language Model (LLM) Reasoning
+* Reinforcement Learning
+* Vision-Language Models (VLM)
+* Hallucination Mitigation
+* LLM Truthfulness and Interpretability
 
 Publications
 ======
